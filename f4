@@ -1,4 +1,9 @@
 hello
 This is my first modification
 I am devops enginner
+<<<<<<< HEAD
 hhhhhhh
+=======
+I like to work on terraform
+I like to work on kubernetes
+>>>>>>> 501f39e7986c2e10af00210462f93b24fbe916df
